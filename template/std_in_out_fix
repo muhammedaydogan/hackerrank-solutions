@@ -1,0 +1,4 @@
+//read from file
+System.setIn(new FileInputStream(new File("input.txt")));
+//write to a file
+System.setOut(new PrintStream(new File("filename.txt")));

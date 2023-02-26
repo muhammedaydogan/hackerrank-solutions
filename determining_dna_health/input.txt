@@ -1,0 +1,5 @@
+5
+gcg atc cat acc tga
+1 2 3 4 7
+1
+0 4 gcatcgcg

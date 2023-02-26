@@ -1,0 +1,25 @@
+case : <aa>
+l:1 a s1
+l:2 aa s4
+*l:1 b s8
+l:1 c s3
+l:1 d s5
+strand:c (3) a (1) a (4) a (4) b (8) 
+20
+case : <aa>
+l:1 a s1
+l:2 aa s4
+*l:1 b s8
+l:1 c s3
+l:1 d s5
+strand:x -y -z -
+0
+case : <aa>
+l:1 a s1
+l:2 aa s4
+*l:1 b s8
+l:1 c s3
+l:1 d s5
+strand:b (8) c (3) d (5) y -b (8) c (3) 
+27
+0 27
